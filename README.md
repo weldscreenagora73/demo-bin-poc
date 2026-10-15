@@ -1,2 +1,5 @@
 # demo-bin-poc
-Legit tool (binary release asset substitution PoC)
+
+Legit CLI tool. Binary release asset substitution PoC.
+
+- v1.0.0: clean release
